@@ -1,0 +1,4 @@
+<resources>
+    <string name="rv_with_footer_loading">加载中&#8230;</string>
+    <string name="rv_with_footer_empty">已显示全部内容</string>
+</resources>

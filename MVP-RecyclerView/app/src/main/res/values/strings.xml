@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVP-RecyclerView</string>
+    <string name="network_error_tip">网络连接失败，请检查网络设置</string>
+
+    <string name="list_is_empty_text_prompt">还没有内容哦！</string>
+    <string name="list_load_fail">数据加载失败，请刷新重试</string>
+    <string name="list_no_more_txt">已显示全部内容</string>
+    <string name="list_load_more_fail">加载更多失败，请上滑重试</string>
+    <string name="list_load_more_fail_no_network">网络连接失败，请上滑重试</string>
+    <string name="list_main_list_no_more_txt">每天都有好内容·明天再来看哦（*∩_∩*）</string>
+
+    <string name="msg_no_network_refresh_retry_prompt">网络连接失败，请刷新重试</string>
+</resources>

@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F2ED"
+    tools:context=".simple.FavoriteActivity">
+
+    <android.support.v7.widget.Toolbar xmlns:toolbar="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        toolbar:navigationIcon="@drawable/ab_back_icon"
+        toolbar:title="Bruce's Favorite"
+        toolbar:titleTextColor="@android:color/white" />
+
+    <include layout="@layout/partial_refresh_layout"/>
+
+</RelativeLayout>
